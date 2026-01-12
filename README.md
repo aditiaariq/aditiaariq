@@ -1,54 +1,110 @@
-<!-- Header Banner -->
 <div align="center">
-  <h1>👋 Hi, I'm Aditia Ariq</h1>
-  <p>
-    <strong>Web Developer | Designer | Open Source Enthusiast</strong>
-  </p>
   
-  [![GitHub followers](https://img.shields.io/github/followers/aditiariq?label=Follow&style=social)](https://github.com/aditiariq)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/aditiariq?style=social)](https://twitter.com/aditiariq)
+<!-- Animated GIF Header -->
+![Welcome GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+# 👋 Hi, I'm Aditia Ariq Riskullah
+
+**Business Analyst | Process Modeling Enthusiast | Student at Telkom University**
+
+<p>
+  <a href="https://github.com/aditiariq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/aditia-ariq-riskullah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aditiaariq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer from Indonesia with a love for building beautiful, functional web experiences. I enjoy exploring new technologies and creating innovative solutions to real-world problems.
+Mahasiswa Semester 5 **Sistem Informasi** di **Telkom University Surabaya** dengan passion pada **Analisis Proses Bisnis** dan **Business Documentation**. Terampil dalam merancang workflow, diagram proses bisnis, dan dokumentasi seperti BRD, PRD, dan BPMN.
 
-- 🌍 Based in Indonesia
-- 💻 Full-stack web developer
-- 🎨 UI/UX enthusiast
-- 🔧 Problem solver & tech explorer
-- 📚 Continuous learner
-
----
-
-## 💼 What I Do
-
-🔭 **Currently Working On:**
-- Web projects and interactive applications
-- Building responsive and user-friendly interfaces
-- Exploring new web technologies
-
-🌱 **Currently Learning:**
-- Advanced web development techniques
-- Cloud technologies & deployment
-- Design patterns & best practices
+- 🎓 **Student:** Sistem Informasi, Telkom University Surabaya (Sep 2023 - Present)
+- 📍 **Location:** Wonocolo, Surabaya, Indonesia
+- 📊 **Academic:** IPK 3.80 (Ranking 6 - Semester 5, Angkatan 2023)
+- 📞 **Phone:** +62 812-5923-9260
+- 💼 **LinkedIn:** [aditia-ariq-riskullah](https://www.linkedin.com/in/aditia-ariq-riskullah)
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Work Experience
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🎯 Business Analyst Intern
+**Learning With Us** | Aug 2025 - Dec 2025
+- Melakukan analisis existing untuk membangun targeting operasional yang lebih efisien
+- Mengumpulkan kebutuhan bisnis melalui diskusi dengan mitra bisnis
+- Mengidentifikasi permasalahan dan solusi yang tepat
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 📈 Chief Marketing Officer
+**Senja Di Jiwa** | Sep 2025 - Dec 2025
+- Merancang dan mengeksekusi strategi pemasaran untuk meningkatkan brand awareness
+- Mengembangkan positioning dan kampanye branding produk lilin aromaterapi
+- Meningkatkan engagement pelanggan dan penjualan
+
+---
+
+## 🛠️ Skills & Expertise
+
+### 💻 Technical Skills
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge)
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-0066FF?style=for-the-badge)
+![Microsoft Visio](https://img.shields.io/badge/MS%20Visio-3B579D?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+**Hard Skills:**
+- Sistem Dokumentasi (BRD, PRD, FRD)
+- Business Process Modeling (BPMN)
+- Workflow & Process Diagramming
+- Google Suite & Microsoft Office
+
+### 🧠 Soft Skills
+- ✅ Kemampuan Riset & Analisis
+- ✅ Berpikir Kritis & Problem Solving
+- ✅ Kemampuan Interpersonal
+- ✅ Manajemen Waktu Efektif
+- ✅ Komunikasi yang Efektif
+- ✅ Adaptif & Proaktif
+
+---
+
+## 🎓 Relevant Courses
+
+📚 **Pemodelan Proses Bisnis**
+- Menyusun BPMN dan dokumentasi alur proses secara terstruktur
+- Merancang proses bisnis untuk CV Berkah Alam Sejahtera
+
+📚 **Rekayasa Proses Bisnis**
+- Menganalisis kebutuhan dan melakukan perbaikan alur bisnis
+- Merancang targeting untuk PT. SABE Indonesia
+
+---
+
+## 🏢 Organizational Experience
+
+### 👥 Anggota Muda Komisi 3
+**DPM Telkom University Surabaya** | Apr 2024 - Apr 2025
+- Mengawasi & mengelola 12+ organisasi kampus
+- Menangani pertanggung jawaban keuangan & dokumen finansial
+- Berkoordinasi dengan seluruh organisasi kampus
+
+### 🌍 Delegasi AFL Peak Winter
+**AIESEC Surabaya** | Sep 2024 - Dec 2024
+- Berpartisipasi dalam diskusi dampak sosial & keberlanjutan
+- Membangun relasi dengan professionals untuk SDGs initiative
+
+---
+
+## 📚 Relevant Experience
+
+### 🎯 Asisten Praktikum Process Business Modeling
+**Telkom University Surabaya** | Jul 2025 - Present
+- Mengajar & mengawasi 35+ mahasiswa untuk memahami business process modeling
+- Menguji dan mengevaluasi diagram BPMN mahasiswa
+- Memastikan akurasi alur kerja & kesesuaian prinsip BPMN
 
 ---
 
@@ -73,44 +129,34 @@ I'm a passionate developer from Indonesia with a love for building beautiful, fu
 
 ---
 
-## 🎯 Featured Projects
+## 🌐 Languages
 
-### 🌐 PAW-ARIQ
-An interactive web project showcasing HTML and web design skills
-- [View Repository](https://github.com/aditiariq/PAW-ARIQ)
-
-### 🌐 Tugas-Code
-A coding challenge project demonstrating programming concepts
-- [View Repository](https://github.com/aditiariq/Tugas-Code)
-
-### 💻 aditiariq.github.io
-Personal portfolio website
-- [Visit Website](https://aditiariq.github.io)
-- [View Repository](https://github.com/aditiariq/aditiariq.github.io)
+- 🇮🇩 **Bahasa Indonesia** - Native
+- 🇬🇧 **English** - B1 / Intermediate
 
 ---
 
-## 🤝 Let's Connect
+## 📞 Contact & Connect
 
-I'd love to hear from you! Feel free to reach out:
+<div align="center">
 
-- 📧 **Email:** aditiariq@example.com
-- 💼 **LinkedIn:** [aditiariq](https://linkedin.com/in/aditiariq)
-- 🐦 **Twitter:** [@aditiariq](https://twitter.com/aditiariq)
-- 🌐 **Portfolio:** [aditiariq.github.io](https://aditiariq.github.io)
+**Let's collaborate and grow together!**
 
----
+| Platform | Link |
+|----------|------|
+| 📧 Email | [aditiaariq@gmail.com](mailto:aditiaariq@gmail.com) |
+| 💼 LinkedIn | [aditia-ariq-riskullah](https://www.linkedin.com/in/aditia-ariq-riskullah) |
+| 📱 WhatsApp | [+62 812-5923-9260](https://wa.me/6281259239260) |
+| 📍 Location | Wonocolo, Surabaya, Indonesia |
 
-## 💡 Fun Facts
-
-⚡ I believe in clean code and continuous improvement
-🎮 Coffee enthusiast & debugging lover
-🎨 Design and code are both forms of art
+</div>
 
 ---
 
 <div align="center">
-  <p><strong>Thanks for visiting my profile! Feel free to explore my repositories and let's collaborate! 🚀</strong></p>
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aditiariq.aditiariq)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aditiariq.aditiariq)
+
+**Thanks for visiting! Feel free to reach out and let's create something amazing together! 🚀**
+
 </div>

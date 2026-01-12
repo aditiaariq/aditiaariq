@@ -81,8 +81,12 @@
 - Business Analysis & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=excel" />
   </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Microsoft_Visio_Icon.svg/1200px-Microsoft_Visio_Icon.svg.png" alt="ms-visio" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://www.visual-paradigm.com/images/logo.png" alt="visual-paradigm" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://logo.bizagi.com/logos/bizagi-bpm-suite.png" alt="bizagi" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://www.gstatic.com/images/branding/product/1x/looker_studio_64dp.png" alt="looker-studio" width="50" height="50" style="margin: 0 5px;" />
 </p>
 
 <br/>

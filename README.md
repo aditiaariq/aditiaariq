@@ -83,18 +83,21 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=excel" />
   </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Microsoft_Visio_Icon.svg/1200px-Microsoft_Visio_Icon.svg.png" alt="ms-visio" width="50" height="50" style="margin: 0 5px;" />
-  <img src="https://www.visual-paradigm.com/images/logo.png" alt="visual-paradigm" width="50" height="50" style="margin: 0 5px;" />
-  <img src="https://logo.bizagi.com/logos/bizagi-bpm-suite.png" alt="bizagi" width="50" height="50" style="margin: 0 5px;" />
-  <img src="https://www.gstatic.com/images/branding/product/1x/looker_studio_64dp.png" alt="looker-studio" width="50" height="50" style="margin: 0 5px;" />
+  <a href="https://www.microsoft.com/en-us/microsoft-365/visio/visio-online" target="_blank">
+    <img src="https://img.shields.io/badge/MS%20Visio-0066FF?style=flat-square&logo=microsoft&logoColor=white" alt="ms-visio" width="50" height="50" />
+  </a>
+  <a href="https://www.visual-paradigm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual%20Paradigm-0066FF?style=flat-square" alt="visual-paradigm" width="50" height="50" />
+  </a>
+  <a href="https://www.bizagi.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bizagi-FF6B6B?style=flat-square" alt="bizagi" width="50" height="50" />
+  </a>
+  <a href="https://lookerstudio.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="looker-studio" width="50" height="50" />
+  </a>
 </p>
 
 <br/>
-
-<h3 align="left">Achievements:</h3>
-
-[![An image of @aditiariq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditiariq)](https://holopin.io/@aditiariq)
-<br><br><br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 

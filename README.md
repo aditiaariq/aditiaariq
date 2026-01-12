@@ -81,19 +81,10 @@
 - Business Analysis & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=excel" />
+    <img src="https://skillicons.dev/icons?i=excel,figma" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/visio/visio-online" target="_blank">
-    <img src="https://img.shields.io/badge/MS%20Visio-0066FF?style=flat-square&logo=microsoft&logoColor=white" alt="ms-visio" width="50" height="50" />
-  </a>
-  <a href="https://www.visual-paradigm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Paradigm-0066FF?style=flat-square" alt="visual-paradigm" width="50" height="50" />
-  </a>
-  <a href="https://www.bizagi.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bizagi-FF6B6B?style=flat-square" alt="bizagi" width="50" height="50" />
-  </a>
-  <a href="https://lookerstudio.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="looker-studio" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msoffice/msoffice-original.svg" alt="ms-visio" width="50" height="50" />
   </a>
 </p>
 

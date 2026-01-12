@@ -10,22 +10,23 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=php" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="50" height="50" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/vs-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -66,7 +67,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
 </p>
 
@@ -77,10 +78,10 @@
   </a>
 </p>
 
-- Tools & Business Analysis
+- Business Analysis & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
   </a>
 </p>
 

@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated GIF Header -->
-![Welcome GIF](https://media.giphy.com/media/VbnUQpnihPSIcs6yWE/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/pPV5djz5A0cVlJPtSR/giphy.gif)
 
 # 👋 Hi, I'm Aditia Ariq Riskullah
 

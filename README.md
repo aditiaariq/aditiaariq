@@ -1,71 +1,97 @@
 <img src="https://media.giphy.com/media/pPV5djz5A0cVlJPtSR/giphy.gif" width="100%" height="300px" />
 
-# Hi 👋, I'm Aditia Ariq Riskullah
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-### A passionate Business Analyst & Full-Stack Developer from Indonesia
-
-I am fascinated by how computer technology 🌐 has transformed business processes and operations. My enthusiasm for combining business analysis with modern software development drives me to create innovative solutions. I love exploring new tech stacks 💻 and leveraging them to build impactful projects 🛠️
-
----
-
-## 🔭 Current Focus
-
-- 🔭 Open to new opportunities in **Business Analysis** and **Software Development**
-- 🌱 Currently learning **DevOps** and **Cloud Architecture**
-- 💼 Working with process modeling, documentation, and full-stack development
-- 💻 All of my projects are available at **[GitHub](https://github.com/aditiariq)**
-- 💬 Ask me about **PHP, Laravel, Python, Java, React, Business Process Modeling**
-- 📫 How to reach me **[aditiaariq@gmail.com](mailto:aditiaariq@gmail.com)**
-- ⚡ Fun fact **I believe great code is just as important as great business processes**
-
----
-
-## Connect with me:
-<a href="https://www.linkedin.com/in/aditia-ariq-riskullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="https://github.com/aditiariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="50" width="50" /></a>
-<a href="https://www.facebook.com/aditiaariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
-<a href="https://www.youtube.com/@aditiaariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="50" /></a>
-<a href="https://www.instagram.com/aditiariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="50" /></a>
-
----
-
-## Languages and Tools:
-
-### Backend
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-
-### Frontend
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-
-### Database
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
-
-### Business Tools
-<a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer"> <img src="https://www.visual-paradigm.com/images/logo.png" alt="visual-paradigm" width="50" height="50"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/visio/visio-online" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msoffice/msoffice-original.svg" alt="visio" width="50" height="50"/> </a>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditiariq&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiariq&layout=compact&theme=tokyonight&hide_border=true)
-
----
+<h1 align="center">Hi 👋, I'm Aditia Ariq Riskullah</h1>
+<h3 align="center">A passionate Business Analyst & Developer from Indonesia</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has transformed business processes and operations. Witnessing the expansion of software engineering allowed me to consider studying information systems from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stacks 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=aditiariq&label=Profile%20views&color=0e75b6&style=flat" alt="aditia ariq riskullah" /> 
+</p>
 
 <div align="center">
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=aditiariq.aditiariq&left_color=green&right_color=blue)
-
-**Let's collaborate and create amazing things together!** 🚀
-
-Created with 💙 by [Aditia Ariq](https://github.com/aditiariq)
-
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/vs-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I'm currently open to a new opportunity in **Business Analysis** and **Software Development**
+
+- 🌱 I'm currently learning **DevOps** and **Cloud Architecture**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/aditiariq)
+
+- 💬 Ask me about **PHP, Laravel, Python, Java, React, Business Process Modeling**
+
+- 📫 How to reach me **aditiaariq@gmail.com**
+
+- ⚡ Fun fact **I believe great code is just as important as great business processes**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aditia-ariq-riskullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditia-ariq-riskullah" height="30" width="40" /></a>
+<a href="https://github.com/aditiariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aditiariq" height="30" width="40" /></a>
+<a href="https://fb.com/aditiaariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditiaariq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aditiaariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aditia ariq" height="30" width="40" /></a>
+<a href="https://instagram.com/aditiariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditiariq" height="30" width="40" /></a>
+</p>
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,java,nodejs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  </a>
+</p>
+
+- Tools & Business Analysis
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">Achievements:</h3>
+
+[![An image of @aditiariq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditiariq)](https://holopin.io/@aditiariq)
+<br><br><br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 💙 by <a href="https://github.com/aditiariq">Aditia Ariq Riskullah</a></p>

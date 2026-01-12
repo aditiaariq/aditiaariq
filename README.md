@@ -1,104 +1,76 @@
-<div align="center">
-  
-<!-- Animated GIF Header -->
-![Welcome GIF](https://media.giphy.com/media/pPV5djz5A0cVlJPtSR/giphy.gif)
+<img src="https://media.giphy.com/media/pPV5djz5A0cVlJPtSR/giphy.gif" width="100%" height="300px" />
 
-# 👋 Hi, I'm Aditia Ariq Riskullah
+# Hi 👋, I'm Aditia Ariq Riskullah
 
-**💼 Business Analyst | 💻 Full-Stack Developer | 📊 Process Modeling Expert**
+### A passionate Business Analyst & Full-Stack Developer from Indonesia
 
-<p>
-  <a href="https://github.com/aditiariq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/aditia-ariq-riskullah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aditiaariq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
-</div>
+I am fascinated by how computer technology 🌐 has transformed business processes and operations. My enthusiasm for combining business analysis with modern software development drives me to create innovative solutions. I love exploring new tech stacks 💻 and leveraging them to build impactful projects 🛠️
 
 ---
 
-## 🎯 About Me
+## 🔭 Current Focus
 
-Passionate about bridging **business needs** with **technology solutions**. Specializing in business process analysis, system requirements, and full-stack development. Always eager to learn new technologies and create impactful solutions.
-
-> *"Code is not just about solving problems, it's about creating better business outcomes."*
+- 🔭 Open to new opportunities in **Business Analysis** and **Software Development**
+- 🌱 Currently learning **DevOps** and **Cloud Architecture**
+- 💼 Working with process modeling, documentation, and full-stack development
+- 💻 All of my projects are available at **[GitHub](https://github.com/aditiariq)**
+- 💬 Ask me about **PHP, Laravel, Python, Java, React, Business Process Modeling**
+- 📫 How to reach me **[aditiaariq@gmail.com](mailto:aditiaariq@gmail.com)**
+- ⚡ Fun fact **I believe great code is just as important as great business processes**
 
 ---
 
-## 🚀 Tech Stack
+## 🤝 Connect with me
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditia-ariq-riskullah)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiariq)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiaariq@gmail.com)
 
-### 🔧 **Backend Development**
+---
+
+## 💻 Languages and Tools
+
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 🎨 **Frontend Development**
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💾 **Database**
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📐 **Business Analysis Tools**
+### Business Tools
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-0066FF?style=for-the-badge)
 ![MS Visio](https://img.shields.io/badge/MS%20Visio-3B579D?style=for-the-badge)
 
-</div>
-
 ---
 
-## 💡 My Interests
-
-```
-🎯 Business Process Modeling & Analysis (BPMN)
-📋 Requirements Gathering & Documentation (BRD, PRD)
-💻 Full-Stack Web Application Development
-🔄 System Architecture & Design
-📈 Business Solution Engineering
-🎨 UI/UX & Process Optimization
-```
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditiariq&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiariq&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
 ---
 
-## 🎮 Contribution Streak
-
-<div align="center">
+## 🎮 GitHub Activity
 
 ![Snake Animation](https://github.com/aditiariq/aditiariq/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
 ---
-
-## 📬 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aditiaariq@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiaariq@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditia--ariq--riskullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditia-ariq-riskullah)
-[![GitHub](https://img.shields.io/badge/GitHub-aditiariq-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiariq)
-
----
-
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=aditiariq.aditiariq&left_color=green&right_color=blue)
 
-**Let's build something amazing together! 🚀**
+**Let's collaborate and create amazing things together!** 🚀
+
+Created with 💙 by [Aditia Ariq](https://github.com/aditiariq)
 
 </div>
